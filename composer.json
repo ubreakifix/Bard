@@ -1,5 +1,5 @@
 {
-  "name": "laravelista/bard",
+  "name": "ubreakifix/bard",
   "description": "Laravel friendly Bard that writes sitemap poetry in xml.",
   "keywords": [
     "sitemap",
